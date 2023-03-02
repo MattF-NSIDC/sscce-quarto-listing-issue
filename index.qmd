@@ -1,5 +1,5 @@
 ---
-title: "demo-sort-issue"
+title: "demo-filter-issue"
 listing: "table"
 ---
 

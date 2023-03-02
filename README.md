@@ -27,6 +27,13 @@ expected. The unexpected behavior is non-deterministic.
    both `1` and `2` will not be filterable.
 
 
+### Notes
+
+* Filtering for `#` always returns no results.
+* Only numeric searches are affected in this non-deterministic way. E.g. if filtering
+  for `2` is ineffective, filtering for `bar` will be effective.
+
+
 ## Screenshots
 
 ![Filter for 1](quarto-filter-issue-1.png)

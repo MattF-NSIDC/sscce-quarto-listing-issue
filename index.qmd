@@ -1,0 +1,6 @@
+---
+title: "demo-sort-issue"
+listing: "table"
+---
+
+This is a demo of issues sorting and filtering a "listing".
